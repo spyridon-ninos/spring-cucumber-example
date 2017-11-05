@@ -1,0 +1,10 @@
+server:
+  port: 2000
+
+bets:
+  settlement:
+    period: 120000 # in milliseconds
+
+app:
+  api:
+    version: v1
