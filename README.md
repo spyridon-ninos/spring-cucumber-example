@@ -1,4 +1,4 @@
-# simple-json-web-service
+# spring-cucumber-example
 Basic implementation of an acceptance test using cucumber and spring
 
 ## Details
